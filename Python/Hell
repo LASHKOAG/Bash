@@ -1,0 +1,13 @@
+#!/usr/bin/env python3.5
+print ("PriveT !")
+print ("Hello")
+print(2+2)
+a = 5
+b = 2
+c = a*b
+print(c)
+x = 5
+print("Введите число и оно умножится на 5")
+y = int(input())
+z = x*y
+print(z)

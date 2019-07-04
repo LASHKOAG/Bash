@@ -1,0 +1,17 @@
+
+
+#!/bin/bash
+#Question Script
+
+echo "Are you hungry?"
+
+read VALUE
+
+echo "VALUE = $VALUE"
+
+if [ $VALUE = "YES" ];
+then
+echo "Make some dinner"
+else
+echo "Continue working!!!"
+fi
