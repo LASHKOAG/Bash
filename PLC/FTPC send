@@ -1,0 +1,8 @@
+#!/bin/bash
+cd /home/root/Agk
+
+#ls
+
+FTPC send csd55.ru -l meteo-s_adms -p admsomskmeteo55 -v 1 -r /55130 ttt.txt
+
+#MessageFTP:/home/root/Agk/FTPC send csd55.ru -l meteo-s_adms -p admsomskmeteo55 -v 1 -r /55130 /home/root/Agk/ttt.txt/n/r
