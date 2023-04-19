@@ -1,0 +1,9 @@
+[Unit]
+Description=BlaBlaBla
+
+[Service]
+Type=idle
+ExecStart=/home/expert/auto_start/auto_start.sh
+
+[Install]
+WantedBy=multi-user.target
