@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=calibration_touch_sensor
+Comment=calibration_touch_sensor
+Exec=sudo /home/expert/ddd/t_h.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Utility
