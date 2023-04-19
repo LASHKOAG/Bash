@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=calibration_touch_sensor
+Comment=calibration_touch_sensor
+Exec=sudo /home/expert/touch/calibration_touch_sensor
+Icon=/usr/share/icons/calib_touch.png
+Terminal=true
+Type=Application
+Categories=Utility
